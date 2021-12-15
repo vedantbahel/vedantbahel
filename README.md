@@ -3,7 +3,7 @@
 <h3 align="center">Researcher | Data Scientisit | Developer | Speaker | Author </h3>  
 
 
-- 🔭 I’m currently working at @EdTeKLA (University of Alberta) as Research Assistant.
+- 🔭 Ex. Universite Laval & EdTeKLA (University of Alberta) as Research Assistant.
 
 - 📚 I’m a TEDx Speaker. 
 
