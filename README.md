@@ -3,6 +3,8 @@
 <h3 align="center">Researcher | Data Scientisit | Developer | Speaker | Author </h3>  
 
 
+- 🏢 Co-founder, alwaysPaid
+
 - 🔭 Ex. Universite Laval & EdTeKLA (University of Alberta) as Research Assistant.
 
 - 📚 I’m a TEDx Speaker. 
