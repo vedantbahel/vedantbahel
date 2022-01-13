@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vedant</h1>
-<h3 align="center">Researcher | Data Scientisit | Developer | Speaker | Author </h3>  
+<h3 align="center"> alwaysPaid </h3>  
 
 
 - 🏢 Co-founder, alwaysPaid
