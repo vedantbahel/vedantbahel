@@ -1,9 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Vedant</h1>
-<h3 align="center"> alwaysPaid </h3>  
+<h1 align="center">Hi 👋, I'm Vedant</h1> 
 
 
-- 🏢 Co-founder, alwaysPaid
+- 🏢 Data Science + Product Designing 
 
 - 🔭 Ex. Universite Laval & EdTeKLA (University of Alberta) as Research Assistant.
 
