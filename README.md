@@ -13,7 +13,7 @@
 
 - 🤔  I’m TechEvangelist. 
 
-- 📫 How to reach me: Twitter: @Vedant_Bahel or email me *vedant556@gmail.com*.
+- 📫 How to reach me: Twitter: @Vedant_Bahel or email me *bvedant@cs.ubc.ca*.
 
 
 <h3 align="left">Languages and Tools:</h3>
