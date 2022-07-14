@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vedant</h1> 
 
-- 🎓 Incoming Graudate student at University of British Columbia, Canada 🇨🇦
+- 🎓 Graudate student at University of British Columbia, Canada 🇨🇦
 
 - 🏢 Data Science + Product Designing 
 
