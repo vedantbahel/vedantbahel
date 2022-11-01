@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vedant</h1> 
 
+- 🚩 GitHub Campus Expert 
+
 - 🎓 Graudate student at University of British Columbia, Canada 🇨🇦
 
 - 🏢 Data Science + Product Designing 
