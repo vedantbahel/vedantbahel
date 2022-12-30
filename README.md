@@ -7,11 +7,11 @@
 
 - 🏢 Data Science + Product Designing 
 
-- 🔭 Ex. Universite Laval & EdTeKLA (University of Alberta) as Research Assistant.
+- 🔭 Former Work: Penn Centre of LAK (UPenn), Universite Laval & EdTeKLA (University of Alberta) as Research Assistant.
 
 - 📚 I’m a TEDx Speaker. 
 
-- 👯 My research interest is in Education Technologies, AI for Ed, Computer aided Learning, Ed Data Science.
+- 👯 My research interest is in AI for Good, User-centric design, Computer aided Learning & Data Science.
 
 - 🤔  I’m TechEvangelist. 
 
