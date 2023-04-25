@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vedant</h1> 
 
-- 🚩 GitHub Campus Expert 
+- 💰 Building alwaysPaid 
 
 - 🎓 Graudate student at University of British Columbia, Canada 🇨🇦
 
@@ -15,7 +15,7 @@
 
 - 🤔  I’m TechEvangelist. 
 
-- 📫 How to reach me: Twitter: @Vedant_Bahel or email me *bvedant@cs.ubc.ca*.
+- 📫 How to reach me: Twitter: @Vedant_Bahel or email me *vedant@alwayspaid.in*.
 
 
 <h3 align="left">Languages and Tools:</h3>
