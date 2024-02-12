@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vedant</h1> 
 
-- 💰 Building alwaysPaid 
-
-- 🎓 Graudate student at University of British Columbia, Canada 🇨🇦
+- 🎓 Graduate student at the University of British Columbia, Canada 🇨🇦
 
 - 🏢 Data Science + Product Designing 
 
