@@ -1,19 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Vedant</h1> 
 
-- 🎓 Graduate student at the University of British Columbia, Canada 🇨🇦
+- 💼 Project Coordinator (AI Research), BC Children's Hospital Research (under Provincial Health Service Authority - PHSA)
 
-- 🏢 Data Science + Product Designing 
+- 🎓 MSc (Computer Science) from  the University of British Columbia, Canada 🇨🇦
 
-- 🔭 Former Work: Penn Centre of LAK (UPenn), Universite Laval & EdTeKLA (University of Alberta) as Research Assistant.
+- 🔭 Former Work: Human-AI Interaction Lab (UBC), Penn Centre of LAK (UPenn), Universite Laval & EdTeKLA (University of Alberta) as Research Assistant.
 
 - 📚 I’m a TEDx Speaker. 
 
-- 👯 My research interest is in AI for Good, User-centric design, Computer aided Learning & Data Science.
+- 👯 My research interest is in Human-AI Interaction with applications in Healthcare and Education.
 
-- 🤔  I’m TechEvangelist. 
-
-- 📫 How to reach me: Twitter: @Vedant_Bahel or email me *vedant@alwayspaid.in*.
+- 📫 How to reach me: Twitter: @Vedant_Bahel or email me *vedant.bahel@bcchr.ca*.
 
 
 <h3 align="left">Languages and Tools:</h3>
