@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vedant</h1> 
 
-- 💼 Project Coordinator (AI Research), BC Children's Hospital Research (under Provincial Health Service Authority - PHSA)
+- 💼 AI Research at BC Children's Hospital Research (under Provincial Health Service Authority - PHSA)
 
 - 🎓 MSc (Computer Science) from  the University of British Columbia, Canada 🇨🇦
 
